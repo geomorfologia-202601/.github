@@ -6,7 +6,7 @@ Autónoma de Santo Domingo (UASD)
 
 ## Programa
 
-- [Visita este enlace](programa-geomorfologia-202502.pdf)
+- [Visita este enlace](programa-geomorfologia-202601.pdf)
 
 ## Servicios o cuentas que deberás obtener:
 
@@ -56,57 +56,54 @@ Autónoma de Santo Domingo (UASD)
   olvides notifícame tu nombre de usuario**, ya sea por correo
   electrónico o por el foro.
 
+- Cuenta en el servidor RStudio. Escríbeme un mensaje de correo
+  electrónico si no tienes cuenta aún. Recibirás un mensaje de correo
+  electrónico con tus credenciales y la dirección del servidor.
+
+- Cuenta en el servidor Jupyter. Esta te la crearé avanzado el semestre,
+  pero recuérdamelo cuando toque la práctica donde necesitarás usar
+  código de Python.
+
 - Cuenta en Google Earth Engine. Te recomiendo [este
   vídeo](https://www.youtube.com/watch?v=7zsJurpOXuA) para crear tu
   cuenta.
 
-- Cuenta en el servidor de RStudio. Escríbeme un mensaje de correo
-  electrónico si no tienes cuenta aún. Recibirás un mensaje de correo
-  electrónico con tus credenciales y la dirección del servidor.
+- Otras cuentas: ChatGPT o DeepSeek o Gemini (AI Studio de Google),
+  Google Earth Engine, GBIF.
 
 ## Presentaciones de diapositivas
 
-- [Unidad 1 (Semana 2). Fundamentos, bases geológicas y tiempo en
+- [Bienvenida](https://geomorfologia-master.github.io/bienvenida/bienvenida.html)
+
+- [Unidad 1. Fundamentos, bases geológicas y tiempo en
   geomorfología](https://geomorfologia-master.github.io/fundamentos-bases-geologicas-tiempo/README.html)
 
-- [Unidad 2 (Semana 3). Geomorfometría y modelado del
-  paisaje](https://geomorfologia-master.github.io/geomorfometria-modelado-del-paisaje/README.html)
+- [Unidad 2. Geomorfometría, modelado del paisaje y sus aplicaciones,
+  posicionamiento aplicado a geomorfología]()
 
-- [Unidad 3 (Semana 4). Intemperización, denudación, procesos de
-  laderas](https://github.com/geomorfologia-master/intemperizacion-denudacion-procesos-de-laderas)
+- [Unidad 3. Intemperización, denudación, procesos de laderas,
+  geomorfología climática, geomorfología kárstica]()
 
-- [Unidad 4 (Semana 5). Sistemas fluviales, litorales y
-  eólicos](https://github.com/geomorfologia-master/sistemas-fluviales-litorales-eolicos)
+- [Unidad 4. Sistemas fluviales, litorales y eólicos]()
+
+<!-- - [Unidad 2. Geomorfometría y modelado del paisaje](https://geomorfologia-master.github.io/geomorfometria-modelado-del-paisaje/README.html) -->
+<!-- - [Unidad 3. Intemperización, denudación, procesos de laderas](https://github.com/geomorfologia-master/intemperizacion-denudacion-procesos-de-laderas) -->
+<!-- - [Unidad 4. Sistemas fluviales, litorales y eólicos](https://github.com/geomorfologia-master/sistemas-fluviales-litorales-eolicos) -->
 
 ## Prácticas de aula
 
-- [PA00. Nivelación de geología para
-  geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia).
-  Plazo de entrega: 25 de agosto, 2025, 3:59 pm.
+- [PA01 · Fundamentos, bases geológicas y tiempo en
+  geomorfología](https://classroom.github.com/a/gj0RsERS) Plazo de
+  entrega (con presentación + defensa + evaluación en aula): 23 de
+  febrero, 2026, 4:00 pm.
 
-- [PA01. Mapa geomorfológico de RD y
-  Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones).
-  Plazo de entrega: 8 de septiembre, 2025, 3:59 pm.
-
+<!-- - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 25 de agosto, 2025, 3:59 pm. -->
+<!-- - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 8 de septiembre, 2025, 3:59 pm. -->
 <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 17 de febrero, 2025, 3:59 pm. -->
-
-- [PA02. Geomorfometría con SRTM 30 m (R y GRASS
-  GIS)](https://github.com/geomorfologia-master/geomorfometria-con-srtm-30-m-R-grass).
-  Plazo de entrega: 15 de septiembre, 2025, 11:59 pm.
-
-- [PA03. Procesa datos GNSS y obtén soluciones
-  fijas)](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas).
-  Plazo de entrega: 22 de septiembre, 2025, 11:59 pm.
-
-- [PA04. Meteorización/intemperización, formas resultantes,
-  geomorfología
-  climática](https://github.com/geomorfologia-master/meteorizacion-formas-resultantes-geomorfologia-climatica-karst).
-  Plazo de entrega: 12 de octubre, 2025, 11:59 pm.
-
-- [PA05. Morfometría de cuencas y procesos
-  fluviales](https://github.com/geomorfologia-master/sistema-fluvial-morfometria-cuenca-basica).
-  Plazo de entrega: 19 de octubre de 2025, 11:59 pm.
-
+<!-- - [PA02. Geomorfometría con SRTM 30 m (R y GRASS GIS)](https://github.com/geomorfologia-master/geomorfometria-con-srtm-30-m-R-grass). Plazo de entrega: 15 de septiembre, 2025, 11:59 pm. -->
+<!-- - [PA03. Procesa datos GNSS y obtén soluciones fijas)](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas). Plazo de entrega: 22 de septiembre, 2025, 11:59 pm. -->
+<!-- - [PA04. Meteorización/intemperización, formas resultantes, geomorfología climática](https://github.com/geomorfologia-master/meteorizacion-formas-resultantes-geomorfologia-climatica-karst). Plazo de entrega: 12 de octubre, 2025, 11:59 pm. -->
+<!-- - [PA05. Morfometría de cuencas y procesos fluviales](https://github.com/geomorfologia-master/sistema-fluvial-morfometria-cuenca-basica). Plazo de entrega: 19 de octubre de 2025, 11:59 pm. -->
 <!-- - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm. -->
 <!-- - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm. -->
 <!-- - [PA06. Procesa datos GNSS y obtén soluciones fijas](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas). Plazo de entrega: 14 de octubre, 2024, 7:59 pm. -->
@@ -114,20 +111,24 @@ Autónoma de Santo Domingo (UASD)
 ## Tutoriales interactivos
 
 - [Introducción a R](https://geofis.shinyapps.io/tutorial1/). Este
-  tutorial te ayudará mucho a comprender algo de código de R, así como
-  los objetos básicos en R.
+  tutorial te ayudará mucho a comprender algo de código de R. Te será de
+  utilidad para comprender lo básico del código que usarás en la PD01 y
+  en la PD02. Puedes usar también este código QR para acceder al
+  tutorial:
+
+<figure>
+<img src="qr-tutorial1.jpg"
+alt="Accede con este QR al tutorial interactivo “Introducción a R”" />
+<figcaption aria-hidden="true">Accede con este QR al tutorial
+interactivo “Introducción a R”</figcaption>
+</figure>
 
 <!-- ## Prácticas de desarrollo -->
 <!-- - [PD01. Hola Mundo](https://classroom.github.com/a/qyQYEq2S). Plazo de entrega: 23 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `geomorfologia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje indicándome tu usuario de GitHub (si no lo tienes aún, deberás crearlo) para así poder invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
 <!-- - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/Pdfw7tXx). Plazo de entrega: 9 de marzo, 2025, 11:59 pm. -->
 <!-- - [PD03. Morfometría de Cuencas y Procesos Fluviales, análisis pormenorizados](https://classroom.github.com/a/q5ELAT7n). Plazo de entrega: 18 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]() -->
-
-## Proyecto de investigación
-
-- [Proyecto de investigación. Tu tema, tu investigación. Geomorfología
-  (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre
-  2025-02](https://classroom.github.com/a/AtAnQaMG). Plazo de entrega:
-  23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una
-  práctica relacionada, podría servirte para comprender cómo usar el
-  cuaderno RMarkdown: [Vídeo tutorial “PD01. Hola
-  Mundo”](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
+<!-- ## Proyecto de investigación -->
+<!-- - [Proyecto de investigación. Tu tema, tu investigación. Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre 2025-02](https://classroom.github.com/a/AtAnQaMG). Plazo de entrega: 23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una -->
+<!--   práctica relacionada, podría servirte para comprender cómo usar el -->
+<!--   cuaderno RMarkdown: [Vídeo tutorial "PD01. Hola -->
+<!--   Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
