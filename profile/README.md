@@ -76,10 +76,13 @@ Autónoma de Santo Domingo (UASD)
 - [Bienvenida](https://geomorfologia-master.github.io/bienvenida/bienvenida.html)
 
 - [Unidad 1. Fundamentos, bases geológicas y tiempo en
-  geomorfología](https://geomorfologia-master.github.io/fundamentos-bases-geologicas-tiempo/README.html)
+  geomorfología](https://geomorfologia-master.github.io/fundamentos-bases-geologicas-tiempo/README.html).
+  También: [Geomorfología. el lenguaje del
+  relieve](https://drive.google.com/file/d/18p5HZKT5PhnCfxqQeOaT_ZaiP9vgJysv/view?usp=drive_link)
 
 - [Unidad 2. Geomorfometría, modelado del paisaje y sus aplicaciones,
-  posicionamiento aplicado a geomorfología]()
+  posicionamiento aplicado a
+  geomorfología](https://geomorfologia-master.github.io/geomorfometria-modelado-del-paisaje/README.html)
 
 - [Unidad 3. Intemperización, denudación, procesos de laderas,
   geomorfología climática, geomorfología kárstica]()
