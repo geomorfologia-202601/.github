@@ -100,6 +100,12 @@ Autónoma de Santo Domingo (UASD)
   entrega (con presentación + defensa + evaluación en aula): 23 de
   febrero, 2026, 4:00 pm.
 
+- [PA02 · Geomorfometría, reproducibilidad, redacción, estilos de
+  formato, figuras, tablas, citas y
+  referencias](https://classroom.github.com/a/UdRYi21p) Plazo de entrega
+  (con presentación + defensa + evaluación en aula): 30 de marzo, 2026,
+  4:00 pm.
+
 <!-- - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 25 de agosto, 2025, 3:59 pm. -->
 <!-- - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 8 de septiembre, 2025, 3:59 pm. -->
 <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 17 de febrero, 2025, 3:59 pm. -->

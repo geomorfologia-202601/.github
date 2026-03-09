@@ -64,6 +64,8 @@ invisible(dev.off())
 - [PA01 · Fundamentos, bases geológicas y tiempo en geomorfología](https://classroom.github.com/a/gj0RsERS)
 Plazo de entrega (con presentación + defensa + evaluación en aula): 23 de febrero, 2026, 4:00 pm.
 
+- [PA02 · Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/UdRYi21p)
+Plazo de entrega (con presentación + defensa + evaluación en aula): 30 de marzo, 2026, 4:00 pm.
 
 <!-- - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 25 de agosto, 2025, 3:59 pm. -->
 
