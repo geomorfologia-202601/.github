@@ -103,10 +103,7 @@ Plazo de entrega (con presentación + defensa + evaluación en aula): 30 de marz
 
 <!-- - [PD03. Morfometría de Cuencas y Procesos Fluviales, análisis pormenorizados](https://classroom.github.com/a/q5ELAT7n). Plazo de entrega: 18 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]() -->
 
-<!-- ## Proyecto de investigación -->
+## Proyecto de investigación
 
-<!-- - [Proyecto de investigación. Tu tema, tu investigación. Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre 2025-02](https://classroom.github.com/a/AtAnQaMG). Plazo de entrega: 23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una -->
-<!--   práctica relacionada, podría servirte para comprender cómo usar el -->
-<!--   cuaderno RMarkdown: [Vídeo tutorial "PD01. Hola -->
-<!--   Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
+- [Proyecto de investigación/desarrollo. Tu tema, tu investigación. Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre 2026-01](https://classroom.github.com/a/i0pxVxQF). Plazo de entrega: 17 de mayo, 2026, 11:59 pm.
 
