@@ -85,7 +85,8 @@ Autónoma de Santo Domingo (UASD)
   geomorfología](https://geomorfologia-master.github.io/geomorfometria-modelado-del-paisaje/README.html)
 
 - [Unidad 3. Intemperización, denudación, procesos de laderas,
-  geomorfología climática, geomorfología kárstica]()
+  geomorfología climática, geomorfología
+  kárstica](https://github.com/geomorfologia-master/intemperizacion-denudacion-procesos-de-laderas)
 
 - [Unidad 4. Sistemas fluviales, litorales y eólicos]()
 
