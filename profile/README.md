@@ -107,6 +107,12 @@ Autónoma de Santo Domingo (UASD)
   (con presentación + defensa + evaluación en aula): 30 de marzo, 2026,
   4:00 pm.
 
+- [PA03 · Intemperización, denudación, procesos de laderas,
+  geomorfología climática y geomorfología
+  kársticas](https://classroom.github.com/a/H96-vF9y) Plazo de entrega
+  (con presentación + defensa + evaluación en aula): 27 de abril, 2026,
+  4:00 pm.
+
 <!-- - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 25 de agosto, 2025, 3:59 pm. -->
 <!-- - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 8 de septiembre, 2025, 3:59 pm. -->
 <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 17 de febrero, 2025, 3:59 pm. -->
